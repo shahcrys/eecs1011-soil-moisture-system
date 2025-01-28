@@ -17,8 +17,7 @@ An Arduino-based system that monitors soil moisture and automatically waters pla
 - [Moisture Calibration](#moisture-calibration)
 - [Code Structure](#code-structure)
 - [Results](#results)
-- [License](#license)
-
+  
 ---
 
 ## Features ✨
@@ -124,7 +123,7 @@ Key Functions:
 - Emergency stop function working at 100% reliability
 
 
-## Moisture Level Visualization 📈
+# Moisture Level Visualization 📈
 
 ```text
 % Saturation vs Time
